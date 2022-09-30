@@ -1,2 +1,2 @@
 # public
-public repository or scripts and code snippets
+Public repository containing scripts and code snippets I have created. 
